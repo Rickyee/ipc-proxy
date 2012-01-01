@@ -1,0 +1,6 @@
+# Sample config. Add this to your config.yml in your siri-proxy install path.
+
+    - name: 'iPhoneclub'
+      git: 'git://github.com/Rickyee/ipc-proxy.git'
+      phrase_file: '' #Optional
+
